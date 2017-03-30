@@ -2,7 +2,7 @@
 
 public class Teste {
 	public static void main(String[] args) {
-		String nome = "Carlos";
+		String nome = "Carlos Eduardo Martins Dutra do Rego";
 		String primeiraLetra = Character.toString(nome.charAt(0));
 		int posicaoUltimoEspaco = nome.lastIndexOf(" ");
 		String primeiraLetraUltimoNome = nome.substring(posicaoUltimoEspaco + 1, posicaoUltimoEspaco + 2);
